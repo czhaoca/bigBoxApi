@@ -1,0 +1,2 @@
+HD Canada
+https://website/api/productsvc/v1/products/1001221502/store/7259?fields=BASIC_SPA&lang=en
